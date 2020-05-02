@@ -15,6 +15,9 @@ public class PracticeDivision {
 		PracticeDivision pd = new PracticeDivision();
 		pd.division(100, 5);
 		//System.out.println(pd);
+		
+		PracticeDivision pd1 = new PracticeDivision();
+		pd.division(100, 20);
 
 	}
 
